@@ -1,9 +1,6 @@
 <html>
 <body>
-  <ul>
-    <li><a href=&quot;/&quot;>Home</a></li>
-    <li><a href=&quot;/about&quot;>About</a></li>
-</ul>
+  
   
 <h1>Pendakian Gunung Pundak Trawas Mojokerto </h1>
 <p>
