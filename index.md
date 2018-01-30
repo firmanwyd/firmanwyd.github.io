@@ -1,5 +1,10 @@
 <html>
 <body>
+  <ul>
+    <li><a href=&quot;/&quot;>Home</a></li>
+    <li><a href=&quot;/about&quot;>About</a></li>
+</ul>
+  
 <h1>Pendakian Gunung Pundak Trawas Mojokerto </h1>
 <p>
   Hallo Semua sudah lama tidak membuat blogs, kali ini aku bakal cerita sedikit pada pendakian di Gunung Pundak Trawas Mojokerto, Kali ini saya mendaki digunung phutuk siwur dengan ketinggian 1429 mdpl dan gunung pundak 1547 mdpl. saya berangkat pada tanggal 04-11-2017 jam 20.00WIB, perjalanan menuju puncak phutuk siwur membutuhkan waktu kurang lebih 0 menit dengan jalan santai, dari phutuk siwur aku lanjut ke gunung pundak tanpa istirahat di phutuk siwur, gunung pundak adalah tujuan kami terakhir untuk membangun sebuah tenda dan tempat istirahat dengan dengan hembusan angin yang sangat kencang kami tetap waspada, mencari tempat yang aman untuk menahan hembusan angin, Untuk kalian yang ingin mendaki gunung pundak dan gunung phutuk siwur, trawas mojokerto. Harga HTM Rp10.000/orang. Untuk kendaraan Rp5000/Motor. Di wisata ini banyak lokasi tempat selfi yang keren lohhh.. dengan background gunung penanggungan dan gunung welirang membuat kesan selfi menjadi wooowww..... apalagi selfi sama gebetan.. serasa dunia milik berdua.
